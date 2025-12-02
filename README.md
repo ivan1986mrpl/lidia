@@ -1,11 +1,11 @@
 # Landing
 
-- Deploy: [link]()
+- Deploy: [link](https://ivan1986mrpl.github.io/lidia/)
 
-- Technologies: HTML, SCSS, Javascript, Vite, Eslint, Stylelint, Prettier
+- Technologies: HTML, CSS, Eslint, Stylelint, Prettier
 
 - Google Page Speed:
   <img width="871" height="677" alt="image" src="" />
 
 - Screenshot:
-  <img width="1900" height="5630" alt="Image" src="" />
+  <img width="1900" height="6036" alt="Image" src="https://github.com/user-attachments/assets/45affcbb-c9b5-479c-a089-5b5362a5a2c9" />

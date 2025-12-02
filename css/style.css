@@ -3,10 +3,10 @@
 
 :root {
   --link-active: #4737ff;
-  --link-unactive: #9a9ea6;
+  --link-unactive: #71747a;
   --heading: #181e4b;
   --desc: #5e6282;
-  --primary: #4475f2;
+  --primary: #3b67d6;
   --placeholder: #9c9c9c;
   --border: #dedede;
 }
@@ -107,9 +107,6 @@ body {
 .header {
   position: relative;
   z-index: 50;
-
-  /* position: sticky;
-  top: 0; */
   padding-top: 77px;
 }
 
@@ -622,7 +619,7 @@ body {
 .reviews__link-title {
   line-height: 187%;
   letter-spacing: 0.01em;
-  color: #23a6f0;
+  color: #145b84;
   transition: all 0.3s;
 }
 
