@@ -1,6 +1,6 @@
 # Landing
 
-- Deploy: [link](https://ivan1986mrpl.github.io/lidia/)
+- Deploy: [link](https://ivan-mr1.github.io/lidia/)
 
 - Technologies: HTML, CSS, Eslint, Stylelint, Prettier
 
